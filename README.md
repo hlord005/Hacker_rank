@@ -11,3 +11,7 @@ Intro to Conditional Statements
 Day 4
 -----
 Class vs Instance Solution
+
+Day 5
+-----
+Loops
