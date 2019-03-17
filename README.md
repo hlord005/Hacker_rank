@@ -14,4 +14,8 @@ Class vs Instance Solution
 
 Day 5
 -----
-Loops
+Loops Solution
+
+Day 6
+-----
+Review Solution
