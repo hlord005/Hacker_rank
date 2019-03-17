@@ -27,3 +27,7 @@ Array Solution
 Day 8
 -----
 Dictionaries and Map Solution
+
+Day 9
+-----
+Recursion Solution
