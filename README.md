@@ -19,3 +19,7 @@ Loops Solution
 Day 6
 -----
 Review Solution
+
+Day 7
+-----
+Array Solution
