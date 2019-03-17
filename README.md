@@ -23,3 +23,7 @@ Review Solution
 Day 7
 -----
 Array Solution
+
+Day 8
+-----
+Dictionaries and Map Solution
